@@ -9,4 +9,11 @@ sebelum membuat repository kita masuk dulu ke github kalau belum punya akun nant
 ![gambar 1](sstugaspemrograman1.png)
 2.	Kemudian, Ketika masuk nanti akan terlihat seperti ini jika sudah melihat gambar ini lalu tekan sign in 
 ![gambar 2](sstugaspemrograman2.png)
+3. Kemudian nanti akan muncul gambar di layer seperti ini lalu masukkan akun kalian lalu tekan “sign in” jika sudah mempunyai akun,  jika belum punya akun bisa tekan “create an account”
+![gambar 3](sstugaspemrograman3.png)
+4. Lalu akan muncul tampilan layer seperti ini 
+Untuk membuat repository tekan “new” 
+![gambar 4](sstugaspemrograman4.png)
+5. Setelah di klik nanti akan muncul tampilan seperti ini ,setelah masuk kemudian isi ”repository name”, kemudian “description [optional]”  kemudian pada pilihan “initialize this repository” pilih “add a README file”  kemudian klik “create repository”
+![gambar 5](sstugaspemrograman5.png)
 
