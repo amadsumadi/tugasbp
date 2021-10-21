@@ -20,5 +20,14 @@ Untuk membuat repository tekan “new”
 ![gambar 6](sstugaspemrograman6.png)
 7. Kemudian kita download git-scm 
 ![gambar 7](sstugaspemrograman7.png)
+ 8. lalu stelah terdownload langsung diinstal 
+  jika ada perintah next pencet next terus sampek finish 
+  sebelum tekan tombol finish jangan lupa centang git bas
+ 9.setelah itu masuk ke github kemudian buat repository baru 
+  setelah itu kita konekan dengan gitbas
+  masukkan langkah langkah dan gambar agar lebih gamblang
+  
+  
+  sekian 
 
 
