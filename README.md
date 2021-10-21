@@ -16,4 +16,9 @@ Untuk membuat repository tekan “new”
 ![gambar 4](sstugaspemrograman4.png)
 5. Setelah di klik nanti akan muncul tampilan seperti ini ,setelah masuk kemudian isi ”repository name”, kemudian “description [optional]”  kemudian pada pilihan “initialize this repository” pilih “add a README file”  kemudian klik “create repository”
 ![gambar 5](sstugaspemrograman5.png)
+6. Lalu akan muncul tampilan seperti in
+![gambar 6](sstugaspemrograman6.png)
+7. Kemudian kita download git-scm 
+![gambar 7](sstugaspemrograman7.png)
+
 
